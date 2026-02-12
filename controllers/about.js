@@ -1,13 +1,17 @@
 'use strict';
-
 import logger from "../utils/logger.js";
-
-
+import stevie from "../models/stevie.js";
 
 const about = {
   createView(request, response) {
     logger.info("About page loading!");
-    response.send('About the Playlist app'); 
+   const viewData = {
+      employee: stevie.getAppInfo(),
+      title: "About the Playlist App"
+    };
+    
+    logger.info(viewData.employee)
+    response.render('about', viewData);
   },
 };
 

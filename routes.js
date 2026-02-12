@@ -11,6 +11,7 @@ import about from './controllers/about.js';
 
 router.get('/', start.createView);
 router.get('/dashboard', dashboard.createView);
+router.get('/about', about.createView);
 
 router.get('/error', (request, response) => response.status(404).end('Page not found.'));
 
