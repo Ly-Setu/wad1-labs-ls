@@ -19,6 +19,9 @@ router.get('/playlist/:id', playlist.createView);
 router.get('/playlist/:id/deletesong/:songid', playlist.deleteSong);
 router.get('/dashboard/deleteplaylist/:id', dashboard.deletePlaylist);
 router.post('/playlist/:id/updatesong/:songid', playlist.updateSong);
+router.get('/searchCategory', dashboard.createView);
+router.get('/sortData', dashboard.createView);
+
 
 router.get('/error', (request, response) => response.status(404).end('Page not found.'));
 
