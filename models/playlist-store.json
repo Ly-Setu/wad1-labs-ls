@@ -52,25 +52,73 @@
     {
       "id": "03",
       "title": "Beethoven Unfinished Symphonies",
-      "rating": 3,
+      "rating": 5,
       "songs": []
     },
     {
       "id": "b7e7a041-2981-466a-9976-0658780f8b5c",
       "title": "cheese",
-      "songs": []
+      "rating": 5,
+      "songs": [
+        {
+          "id": "aae09ed0-ea6f-435d-8ffd-29fe4ff109a3",
+          "title": "1",
+          "artist": "1"
+        },
+        {
+          "id": "37fc5643-2550-4995-b161-2bf875cc827c",
+          "title": "2",
+          "artist": "2"
+        },
+        {
+          "id": "fcea324d-1298-45ba-8451-76c6bf36c43c",
+          "title": "3",
+          "artist": "3"
+        },
+        {
+          "id": "90466136-f212-4b18-bb41-d98199a59086",
+          "title": "4",
+          "artist": "4"
+        },
+        {
+          "id": "39762862-a570-456f-b4da-056c45af48a1",
+          "title": "5",
+          "artist": "5"
+        }
+      ]
     },
     {
       "id": "7c2040cd-a908-4fcd-8165-bdeff384f0f4",
       "title": "ham",
+      "rating": 4,
       "date": "2026-03-19T14:51:09.279Z",
-      "songs": []
-    },
-    {
-      "id": "6dc27ccd-03ab-4ba6-8267-43cfba74b975",
-      "title": "e",
-      "date": "2026-03-19T14:58:27.551Z",
-      "songs": []
+      "songs": [
+        {
+          "id": "78fd2b04-a385-4bdb-bebe-f7c90b378a50",
+          "title": "12",
+          "artist": "12"
+        },
+        {
+          "id": "e24e5921-4a63-46a8-ae3b-7212b259b89c",
+          "title": "13",
+          "artist": "14"
+        },
+        {
+          "id": "36822251-c777-434f-bd14-98e826f92dfd",
+          "title": "14",
+          "artist": "15"
+        },
+        {
+          "id": "8338509a-9d96-40b1-ad26-1d4d465e77c1",
+          "title": "13",
+          "artist": "16"
+        },
+        {
+          "id": "0f6cb534-c158-4d39-8619-931ded20faf2",
+          "title": "65",
+          "artist": "75"
+        }
+      ]
     }
   ]
 }
