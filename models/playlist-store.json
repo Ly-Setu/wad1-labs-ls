@@ -1,22 +1,13 @@
 {
-
-      "playlistCollection": [
-        {
-          "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
-          "id": "e93f4b34-140a-4a25-b8ae-36e2ff24aff5",
-          "title": "Homer's Playlist",
-          "rating": 4,
-          "songs": [],
-          "date": "2026-04-10T14:39:25.112Z"
-        },
-        {
-          "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
-          "id": "f9de08c1-5567-4ad7-a685-fbce474fa9d4",
-          "title": "Marge's Playlist",
-          "rating": 3,
-          "songs": [],
-          "date": "2026-04-10T14:40:09.467Z"
-        },
+  "playlistCollection": [
+    {
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "id": "e93f4b34-140a-4a25-b8ae-36e2ff24aff5",
+      "title": "Homer's Playlist",
+      "rating": 4,
+      "songs": [],
+      "date": "2026-04-10T14:39:25.112Z"
+    },
     {
       "userid": "1f329fde-4afc-4d37-8f8c-ecd8cd7ace9b",
       "id": "3afd232f-6861-47cf-a91e-db835f4bd4f7",
@@ -26,18 +17,16 @@
       "date": "2026-04-22T20:32:06.952Z"
     },
     {
+      "id": "f5c55924-e48a-4aa0-ad26-8349563023e2",
       "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
-      "id": "eed974a2-7e3a-4516-b4d3-64daffb02d39",
-      "title": "asd",
-      "rating": 4,
-      "songs": [
-        {
-          "id": "a4f40017-2219-496f-bf3b-faf9cc409640",
-          "title": "asd",
-          "artist": "asd"
-        }
-      ],
-      "date": "2026-04-22T21:03:15.505Z"
+      "title": "cool dog",
+      "rating": 5,
+      "songs": [],
+      "date": "2026-04-23T14:58:52.897Z",
+      "picture": {
+        "url": "http://res.cloudinary.com/dsvo8fgtn/image/upload/v1776956328/kakhrebw99itm8ayh1qr.jpg",
+        "public_id": "kakhrebw99itm8ayh1qr"
+      }
     }
   ]
 }
