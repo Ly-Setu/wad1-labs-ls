@@ -3,7 +3,7 @@
 import logger from '../utils/logger.js';
 import JsonStore from './json-store.js';
 
-const emp = {
+const emp= {
 
   store: new JsonStore('./models/emp.json', { employees: [] }),
   collection: 'employees',
